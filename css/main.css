@@ -383,7 +383,6 @@ body {
   padding: 0;
   margin: 0 auto;
   width: 1280px;
-  border: 1px dashed green;
 }
 
 @media only screen and (max-width: 768px) {
@@ -392,7 +391,6 @@ body {
     padding: 40px;
     margin: 0 auto;
     box-sizing: border-box;
-    border: 1px dashed green;
   }
 }
 .header {
@@ -433,7 +431,6 @@ body {
   .header {
     margin: 0 auto;
     max-width: 689px;
-    border: 1px dashed green;
   }
 }
 .hero {
