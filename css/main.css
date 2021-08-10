@@ -866,7 +866,7 @@ body {
   font-size: 18px;
   color: #ffffff;
   font-weight: 900;
-  margin-top: 44px;
+  margin-top: 128px;
   line-height: 25px;
   padding: 15px 31px;
   border-radius: 6px;
@@ -917,5 +917,9 @@ body {
     margin-top: 38px;
     max-width: 223px;
     max-height: 154px;
+  }
+
+  .step__link {
+    margin-top: 64px;
   }
 }/*# sourceMappingURL=main.css.map */
