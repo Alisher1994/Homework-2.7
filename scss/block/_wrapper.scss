@@ -1,0 +1,19 @@
+.wrapper {
+    padding: 0;
+    margin: 0 auto;
+    width: 1280px;
+    border: 1px dashed green;
+}
+
+// resposive fot tablets
+
+@media only screen and (max-width: 768px) {
+
+    .wrapper {
+        width: 768px;
+        padding: 40px;
+        margin: 0 auto;
+        box-sizing: border-box;
+        border: 1px dashed green;
+    }
+}
